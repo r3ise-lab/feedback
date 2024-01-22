@@ -18,22 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: R3iSE-feedback
+email: majid.babaei@mcgill.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to Feedback, your go-to platform for providing valuable feedback on outstanding scientific efforts in the field of software engineering. Our website is dedicated to recognizing and acknowledging the remarkable contributions made by researchers, developers, and innovators in this ever-evolving domain. Whether it's groundbreaking algorithms, cutting-edge tools, or innovative methodologies, Feedback serves as a hub where you can share your insights, critique, and suggestions to help drive the progress of software engineering forward. Join our vibrant community of experts, enthusiasts, and professionals as we collaborate to shape the future of this dynamic discipline.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: drmbabaei
+github_username: drmajidbabaei
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
